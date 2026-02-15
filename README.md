@@ -20,5 +20,5 @@
 
 1. 克隆本仓库：
    ```bash
-   git clone https://github.com/your-username/classic-cv-reimplementation.git
+   git clone https://github.com/haituni/classic-cv-reimplementation.git
    cd classic-cv-reimplementation
